@@ -1,0 +1,42 @@
+
+
+.image-background {
+  background: url('DOS2_KeyArt_edit_1920x1080.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  color: white;
+}
+.ui.yellow.inverted.fluid.six.item.text.large.menu{
+  font-family: "pill-gothic-600mg";
+  font-size: 16px;
+  font-weight: 400;
+  color: #e7bd74;
+  padding-bottom: 110px;
+}
+
+.ui.two.column.grid{
+padding-top: 110px;
+}
+
+.ui.column{
+  padding-left: 17px;
+  padding-right: 17px;
+}
+.ui.image{
+  padding-bottom: 15px;
+}
+.ui.header{
+  color: #e7bd74;
+  padding-top: 110px;
+}
+
+.ui.small.header{
+  padding-left: 100px;
+}
+.margin.bottom{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+body{
+  background-color: black;
+}
